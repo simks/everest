@@ -23,6 +23,10 @@ public class Post {
 		this.modifiedDate = modifiedDate;
 	}
 
+	public Post() {
+
+	}
+
 	public long getId() {
 		return id;
 	}

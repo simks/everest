@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2720007884">
+    <data-source source="LOCAL" name="everest_board@localhost" uuid="a8524283-c28b-4d31-b9db-f39bc60cfa69">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/everest_board</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9e</user-password>
+      <schema-pattern>everest_board.*</schema-pattern>
+      <default-schemas>everest_board.*</default-schemas>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
